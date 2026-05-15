@@ -1,0 +1,6 @@
+pandas
+requests
+openai
+PyGithub
+python-dotenv
+scikit-learn

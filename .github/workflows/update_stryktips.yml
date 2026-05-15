@@ -1,0 +1,54 @@
+name: Update Stryktips CSV
+
+on:
+  workflow_dispatch:
+
+  schedule:
+
+    # Söndag–torsdag: varannan timme
+    - cron: "0 */2 * * 0-4"
+
+    # Fredag: varje timme
+    - cron: "0 * * * 5"
+
+    # Lördag: varje 30:e minut
+    - cron: "0,30 * * * 6"
+
+jobs:
+
+  update-csv:
+
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Run Stryktips agent
+        run: |
+          python src/main.py
+
+      - name: Commit updated CSV
+        run: |
+
+          git config user.name "StryktipsAgent"
+          git config user.email "agent@github.com"
+
+          git add stryktips.csv
+
+          git commit -m "Auto update Stryktips CSV" || echo "No changes"
+
+          git push
