@@ -1,6 +1,6 @@
 Match,Home,Away,Odds1,OddsX,Odds2,Folk1,FolkX,Folk2,League,Round,AI_Sim1,AI_SimX,AI_Sim2,xG_For,xG_Against,xG_Diff,HomeForm,AwayForm
 1,Brentford,Tottenham,"2,63","3,60","2,70",35,25,40,Premier League,4967,,,,,,,,
-2,Everton,Crystal Palace,"2,23","3,50","3,50",60,25,15,Premier League,4967,,,,,,,,
+2,Everton,Crystal Palace,"2,23","3,50","3,50",60,26,14,Premier League,4967,,,,,,,,
 3,Ipswich,Sunderland,"2,85","3,40","2,63",39,30,31,Premier League,4967,,,,,,,,
 4,Nottingham,Leeds,"2,30","3,45","3,35",44,28,28,Premier League,4967,,,,,,,,
 5,Blackburn,Middlesbrough,"3,60","3,45","2,12",21,28,51,Championship,4967,,,,,,,,
@@ -10,5 +10,5 @@ Match,Home,Away,Odds1,OddsX,Odds2,Folk1,FolkX,Folk2,League,Round,AI_Sim1,AI_SimX
 9,Southampton,Stoke,"1,74","3,95","4,80",69,18,13,Championship,4967,,,,,,,,
 10,Swansea,Sheffield U,"2,48","3,45","2,90",45,28,27,Championship,4967,,,,,,,,
 11,West Ham,Charlton,"1,38","5,00","8,50",83,10,7,Championship,4967,,,,,,,,
-12,Wrexham,Watford,"2,00","3,60","3,80",58,23,19,Championship,4967,,,,,,,,
+12,Wrexham,Watford,"2,00","3,60","3,80",59,23,18,Championship,4967,,,,,,,,
 13,Wimbledon,Reading,"2,55","3,30","2,75",32,33,35,League One,4967,,,,,,,,
