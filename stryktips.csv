@@ -1,10 +1,10 @@
 Match,Home,Away,Odds1,OddsX,Odds2,Folk1,FolkX,Folk2,League,Round,AI_Sim1,AI_SimX,AI_Sim2,xG_For,xG_Against,xG_Diff,HomeForm,AwayForm
 1,Tottenham,Newcastle,"2,14","3,75","3,45",45,24,31,Premier League,4968,,,,,,,,
 2,Bournemouth,Everton,"2,00","3,80","3,85",52,24,24,Premier League,4968,,,,,,,,
-3,Coventry,Hull,"1,93","3,85","4,10",46,25,29,Premier League,4968,,,,,,,,
+3,Coventry,Hull,"1,93","3,85","4,10",47,25,28,Premier League,4968,,,,,,,,
 4,Blackburn,Queens Park Rangers,"2,28","3,40","3,20",50,24,26,Championship,4968,,,,,,,,
-5,Bolton,Lincoln,"2,48","3,50","2,88",54,24,22,Championship,4968,,,,,,,,
-6,Bristol City,Portsmouth,"2,23","3,40","3,35",53,23,24,Championship,4968,,,,,,,,
+5,Bolton,Lincoln,"2,48","3,50","2,88",55,24,21,Championship,4968,,,,,,,,
+6,Bristol City,Portsmouth,"2,23","3,40","3,35",54,23,23,Championship,4968,,,,,,,,
 7,Cardiff,Sheffield U,"2,60","3,55","2,70",39,27,34,Championship,4968,,,,,,,,
 8,Charlton,Preston,"2,18","3,35","3,55",58,22,20,Championship,4968,,,,,,,,
 9,Norwich,Burnley,"2,43","3,65","2,85",42,26,32,Championship,4968,,,,,,,,
