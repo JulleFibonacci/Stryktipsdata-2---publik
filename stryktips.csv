@@ -1,7 +1,7 @@
 Match,Home,Away,Odds1,OddsX,Odds2,Folk1,FolkX,Folk2,League,Round,AI_Sim1,AI_SimX,AI_Sim2,xG_For,xG_Against,xG_Diff,HomeForm,AwayForm
 1,Nottingham,Coventry,"1,71","4,10","4,75",70,17,13,Premier League,4971,,,,,,,,
 2,Brighton,Arsenal,"4,70","4,00","1,74",22,24,54,Premier League,4971,,,,,,,,
-3,Everton,Ipswich,"1,79","3,95","4,40",61,22,17,Premier League,4971,,,,,,,,
+3,Everton,Ipswich,"1,79","3,95","4,40",62,22,16,Premier League,4971,,,,,,,,
 4,Newcastle,Hull,"1,53","4,60","6,00",54,25,21,Premier League,4971,,,,,,,,
 5,Birmingham,Middlesbrough,"3,00","3,55","2,35",30,30,40,Championship,4971,,,,,,,,
 6,Burnley,Derby,"1,83","3,70","4,50",56,25,19,Championship,4971,,,,,,,,
