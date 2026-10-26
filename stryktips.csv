@@ -1,7 +1,7 @@
 Match,Home,Away,Odds1,OddsX,Odds2,Folk1,FolkX,Folk2,League,Round,AI_Sim1,AI_SimX,AI_Sim2,xG_For,xG_Against,xG_Diff,HomeForm,AwayForm
-1,Aston Villa,Fulham,"1,96","3,80","3,85",58,20,22,Premier League,4977,,,,,,,,
-2,Tottenham,Crystal Palace,"1,63","4,35","5,30",56,23,21,Premier League,4977,,,,,,,,
-3,Manchester City,Brighton,"1,70","4,35","4,60",52,23,25,Premier League,4977,,,,,,,,
+1,Aston Villa,Fulham,"1,96","3,80","3,85",58,21,21,Premier League,4977,,,,,,,,
+2,Tottenham,Crystal Palace,"1,63","4,35","5,30",57,23,20,Premier League,4977,,,,,,,,
+3,Manchester City,Brighton,"1,70","4,35","4,60",53,23,24,Premier League,4977,,,,,,,,
 4,Bournemouth,Leeds,"2,14","3,60","3,45",48,26,26,Premier League,4977,,,,,,,,
 5,Coventry,Sunderland,"2,88","3,55","2,48",40,29,31,Premier League,4977,,,,,,,,
 6,Brentford,Nottingham,"2,04","3,85","3,50",52,22,26,Premier League,4977,,,,,,,,
