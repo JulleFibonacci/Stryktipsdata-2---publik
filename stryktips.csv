@@ -1,6 +1,6 @@
 Match,Home,Away,Odds1,OddsX,Odds2,Folk1,FolkX,Folk2,League,Round,AI_Sim1,AI_SimX,AI_Sim2,xG_For,xG_Against,xG_Diff,HomeForm,AwayForm
 1,Ipswich,Aston Villa,"3,45","3,95","2,04",28,27,45,Premier League,4981,,,,,,,,
-2,Manchester United,Brentford,"2,00","3,95","3,55",48,24,28,Premier League,4981,,,,,,,,
+2,Manchester United,Brentford,"2,00","3,95","3,55",49,24,27,Premier League,4981,,,,,,,,
 3,Leeds,Coventry,"1,58","4,25","6,00",73,15,12,Premier League,4981,,,,,,,,
 4,Birmingham,Bolton,"1,58","4,35","5,80",73,15,12,Championship,4981,,,,,,,,
 5,Derby,Watford,"2,30","3,55","3,15",41,29,30,Championship,4981,,,,,,,,
@@ -9,6 +9,6 @@ Match,Home,Away,Odds1,OddsX,Odds2,Folk1,FolkX,Folk2,League,Round,AI_Sim1,AI_SimX
 8,Queens Park Rangers,Sheffield U,"2,12","3,75","3,35",45,29,26,Championship,4981,,,,,,,,
 9,West Ham,Stoke,"1,47","4,80","7,00",51,22,27,Championship,4981,,,,,,,,
 10,Wrexham,Portsmouth,"2,17","3,40","3,60",52,27,21,Championship,4981,,,,,,,,
-11,Luton,Oxford,"1,73","3,85","4,40",55,24,21,League One,4981,,,,,,,,
+11,Luton,Oxford,"1,73","3,85","4,40",56,24,20,League One,4981,,,,,,,,
 12,Sheffield W,Reading,"2,33","3,60","2,80",56,23,21,League One,4981,,,,,,,,
 13,Wycombe,Bradford,"2,50","3,30","2,75",34,32,34,League One,4981,,,,,,,,
